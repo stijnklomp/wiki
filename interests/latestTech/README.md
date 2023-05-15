@@ -18,3 +18,8 @@ This is a set of the latest technologies that could be of interest to developers
 
 - ##### [Slate](https://github.com/slatedocs/slate)
   API documentation
+
+#### Linting and formatting
+
+- ##### [Style lint](https://www.npmjs.com/package/stylelint)
+  Linting CSS
