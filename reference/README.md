@@ -5,3 +5,4 @@ Mostly technical items that are tedious or pointless to remember or that should 
 ### Table of contents
 
 - [Error codes](errorCodes/)
+- [Algorithms](algorithms/)
